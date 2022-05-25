@@ -1,2 +1,2 @@
 # mantu
-Make a bigger world
+Make a batter world
